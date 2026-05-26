@@ -12,6 +12,8 @@
 
 **Appointment** — A scheduled meeting between Luis and a prospect or client. Booked via an embedded Cal.com scheduler on the Acquisition Site. Cal.com handles availability, confirmations, and reminders.
 
+**Consultation** — A free introductory Appointment. The primary CTA on the Acquisition Site. Prospect books directly via Cal.com. Contact form exists as a secondary, lower-friction option.
+
 ## Services
 
 **Bookkeeping** — Monthly accounting: recording transactions, reconciling accounts, and producing financial reports for business owners.
