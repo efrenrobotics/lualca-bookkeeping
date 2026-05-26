@@ -12,6 +12,8 @@
 
 **Color Palette** — Charcoal (primary text + UI) + Gold (accent, CTAs) on an Off-White background. Conveys premium and professional without blending into generic accounting-firm navy.
 
+**Hero Direction** — Identity-led. Leads with audience and bilingual USP: "Built for Texas business owners — in English and Spanish." Immediately self-selects the right visitor and surfaces the differentiator no competitor can match.
+
 ## Content
 
 **Locale File** — A JSON file containing all copy for one language. Paths: `messages/en.json` (English) and `messages/es.json` (Spanish). Managed in code by the developer; Luis does not edit content directly.
