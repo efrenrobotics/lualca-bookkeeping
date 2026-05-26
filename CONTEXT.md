@@ -8,6 +8,10 @@
 
 **Client Portal** — The authenticated surface where existing clients manage documents (uploads, downloads, tax returns, bookkeeping reports). Deferred to a later phase.
 
+## Booking
+
+**Appointment** — A scheduled meeting between Luis and a prospect or client. Booked via an embedded Cal.com scheduler on the Acquisition Site. Cal.com handles availability, confirmations, and reminders.
+
 ## Services
 
 **Bookkeeping** — Monthly accounting: recording transactions, reconciling accounts, and producing financial reports for business owners.
