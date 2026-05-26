@@ -8,6 +8,16 @@
 
 **Client Portal** — The authenticated surface where existing clients manage documents (uploads, downloads, tax returns, bookkeeping reports). Deferred to a later phase.
 
+## Tech Stack
+
+**Framework** — Next.js (App Router), TypeScript, Tailwind CSS.
+
+**Internationalisation** — `next-intl`. Locale-prefixed routes: `/en/` and `/es/`. Copy lives in `messages/en.json` and `messages/es.json`.
+
+**Scheduling** — Cal.com embed. Handles free consultation booking, availability, confirmations, and reminders.
+
+**Email** — Resend. Contact form submissions are sent from a Next.js Server Action to `admin@lualcabookkeeping.com`.
+
 ## Design
 
 **Color Palette** — Charcoal (primary text + UI) + Gold (accent, CTAs) on an Off-White background. Conveys premium and professional without blending into generic accounting-firm navy.
