@@ -8,6 +8,10 @@
 
 **Client Portal** — The authenticated surface where existing clients manage documents (uploads, downloads, tax returns, bookkeeping reports). Deferred to a later phase.
 
+## Design
+
+**Color Palette** — Charcoal (primary text + UI) + Gold (accent, CTAs) on an Off-White background. Conveys premium and professional without blending into generic accounting-firm navy.
+
 ## Content
 
 **Locale File** — A JSON file containing all copy for one language. Paths: `messages/en.json` (English) and `messages/es.json` (Spanish). Managed in code by the developer; Luis does not edit content directly.
