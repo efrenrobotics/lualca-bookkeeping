@@ -8,6 +8,12 @@
 
 **Client Portal** — The authenticated surface where existing clients manage documents (uploads, downloads, tax returns, bookkeeping reports). Deferred to a later phase.
 
+## Content
+
+**Locale File** — A JSON file containing all copy for one language. Paths: `messages/en.json` (English) and `messages/es.json` (Spanish). Managed in code by the developer; Luis does not edit content directly.
+
+**Seasonal Banner** — A section of the Acquisition Site that surfaces tax deadlines and promotions. Shown during tax season (January 1 – April 15). Date-gated in code; no CMS toggle needed.
+
 ## Audience
 
 **Primary Client** — A small business owner (sole proprietor, LLC, or S-Corp) who needs ongoing monthly services: bookkeeping, payroll, and tax strategy. Recurring relationship, higher lifetime value. The hero of the Acquisition Site copy.
