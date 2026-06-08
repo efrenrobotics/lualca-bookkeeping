@@ -53,3 +53,25 @@
 **Payroll Services** — Full-service payroll processing: calculating employee pay, withholding federal taxes, filing 941s/940s, and issuing W-2s at year-end. Texas-based clients; no state income tax applies.
 
 **LLC Formation** — Assisting clients with forming a Limited Liability Company, including the associated filing and advisory work.
+
+## Build Skills
+
+The Acquisition Site is built section-by-section (one GitHub issue per section, all children of the Acquisition Site PRD). Each section is implemented with the `impeccable` family of design skills. The intended aesthetic is **premium but restrained** — polished, trustworthy, and "expensive" without flashy effects that would feel out of place for an accountant. The Hero is the one place we push harder, since it sets the bar.
+
+**Applies to every section** (stated once, not repeated below):
+- `frontend-design` — establishes project design context; the base for any component.
+- `polish` — final pre-ship pass on alignment, spacing, and micro-details after a section is built.
+
+**Per-section skills:**
+
+| Section | Skills | Rationale |
+| ------- | ------ | --------- |
+| Walking skeleton + Hero | `extract`, `typeset`, `colorize`, `critique`, `overdrive` | `extract` lays down design tokens + the `Button`/`Section`/`Container` primitives; `typeset`/`colorize` lock the charcoal-gold-off-white type & color system; `critique` drives the human design review; `overdrive` makes the Hero feel premium (the one section we push hard). |
+| Navigation | `arrange`, `animate`, `adapt`, `harden` | Sticky-nav balance; smooth-scroll + hamburger transitions; mobile collapse; long-label/i18n overflow (Spanish copy runs longer). |
+| Services | `arrange`, `extract`, `colorize`, `harden` | `extract` formalizes the `Card` primitive; grid rhythm; service icon color; varied EN/ES description lengths. |
+| About | `typeset`, `arrange`, `clarify`, `bolder` | Bio readability; sharpen the bilingual USP; bio/image balance; `bolder` so it doesn't read flat. |
+| Testimonials | `arrange`, `delight`, `typeset` | 3-card layout; memorable quote treatment; quote/attribution hierarchy. |
+| Seasonal Banner | `colorize`, `clarify`, `animate`, `harden` | Gold urgency strip; clear deadline message; tasteful entrance; date-edge rendering. |
+| Booking / Cal.com embed | `harden`, `adapt`, `normalize` | Third-party embed loading/failure states; mobile embed sizing; visually match the design system. |
+| Contact form | `harden`, `clarify`, `onboard`, `critique` | Validation/error/success edge cases; field labels + error messages; lower friction; UX review of result states. |
+| Footer | `arrange`, `distill`, `normalize` | Keep it minimal (no social); column layout; system consistency with the nav. |
