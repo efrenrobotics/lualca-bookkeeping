@@ -1,0 +1,22 @@
+{
+  "Meta": {
+    "title": "Lualca Bookkeeping — Contabilidad y Estrategia Fiscal para Negocios en Texas",
+    "description": "Contabilidad, estrategia fiscal y servicios de impuestos bilingües para dueños de negocios en Texas — en inglés y español. Reserve una consulta gratuita con Luis Canchola."
+  },
+  "LocaleSwitcher": {
+    "label": "Idioma",
+    "en": "English",
+    "es": "Español"
+  },
+  "Nav": {
+    "brand": "Lualca Bookkeeping",
+    "bookCta": "Reservar una consulta"
+  },
+  "Hero": {
+    "eyebrow": "Contabilidad · Estrategia Fiscal · Impuestos",
+    "headline": "Hecho para los negocios de Texas — en inglés y español.",
+    "subhead": "Luis Canchola ayuda a dueños de negocios y familias a mantener sus cuentas en orden, reducir sus impuestos y declarar con confianza. Atención personal en el idioma en el que usted hace negocios.",
+    "primaryCta": "Reserve una consulta gratis",
+    "secondaryCta": "Contáctenos"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Meta": {
+    "title": "Lualca Bookkeeping — Accounting & Tax Strategy for Texas Business Owners",
+    "description": "Bilingual bookkeeping, tax strategy, and tax services for Texas small business owners — in English and Spanish. Book a free consultation with Luis Canchola."
+  },
+  "LocaleSwitcher": {
+    "label": "Language",
+    "en": "English",
+    "es": "Español"
+  },
+  "Nav": {
+    "brand": "Lualca Bookkeeping",
+    "bookCta": "Book a Consultation"
+  },
+  "Hero": {
+    "eyebrow": "Bookkeeping · Tax Strategy · Tax Services",
+    "headline": "Built for Texas business owners — in English and Spanish.",
+    "subhead": "Luis Canchola helps small business owners and families keep clean books, lower their tax bill, and file with confidence. Personal service in the language you do business in.",
+    "primaryCta": "Book a Free Consultation",
+    "secondaryCta": "Get in touch"
+  }
+}
